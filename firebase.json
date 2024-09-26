@@ -1,0 +1,23 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "dbflutter",
+                    "appId": "1:433799420794:web:a9c7831e3368fe091614c3",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "dbflutter",
+                    "configurations": {
+                        "android": "1:433799420794:web:a9c7831e3368fe091614c3",
+                        "web": "1:433799420794:web:a9c7831e3368fe091614c3",
+                        "windows": "1:433799420794:web:a9c7831e3368fe091614c3"
+                    }
+                }
+            }
+        }
+    }
+}
